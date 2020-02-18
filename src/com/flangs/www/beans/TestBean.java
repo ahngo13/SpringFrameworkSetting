@@ -8,7 +8,7 @@ public class TestBean {
 	private String test_TEXT;
 	private Date test_DATE;
 	private double test_DOUBLE;
-	 
+	  
 	public int getTest_INT() {
 		return test_INT;
 	} 
